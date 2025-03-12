@@ -18,6 +18,10 @@ dependencies = [
     "lxml>=5.3.1",
 ]
 
+[project.urls]
+Repository = "https://ejohnso49/itc2kc.git"
+
+
 [project.scripts]
 itc2kc = "itc2kc:main"
 
