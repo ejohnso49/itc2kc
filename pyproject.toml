@@ -1,6 +1,6 @@
 [project]
 name = "itc2kc"
-version = "0.1.0.post1"
+version = "0.1.1"
 authors = [
     { name = "Eric Johnson", email = "eric.j.johnson22@gmail.com" },
 ]
@@ -19,8 +19,10 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://ejohnso49/itc2kc.git"
-
+Homepage = "https://github.com/ejohnso49/itc2kc"
+Repository = "https://github.com/ejohnso49/itc2kc"
+Changelog = "https://github.com/ejohnso49/itc2kc/blob/master/CHANGELOG.md"
+Issues = "https://github.com/ejohnso49/itc2kc/issues"
 
 [project.scripts]
 itc2kc = "itc2kc:main"
@@ -40,6 +42,7 @@ dev = [
 name = "testpypi"
 url = "https://test.pypi.org/simple/"
 publish-url = "https://test.pypi.org/legacy/"
+explicit = true
 
 [tool.ruff]
 line-length = 100
