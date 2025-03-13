@@ -13,4 +13,4 @@ This was a little experiment so feel free to tweak or send me suggestions.
 
 ## About
 
-I started off using Claude for this, read more about it on my blog post [here](https://ericjohnson.bearblog.dev/itc2kc/)
+This started as a desire to have the Bliss theme on my kitty terminal, I wrote about developing this script [here](https://ericjohnson.bearblog.dev/itc2kc/)
